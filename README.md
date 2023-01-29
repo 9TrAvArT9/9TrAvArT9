@@ -16,4 +16,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+<p align="left">
+![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+</p>
