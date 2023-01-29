@@ -10,7 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://9travart9.github.io/" target="_blank"><i class="fal fa-globe"></i>
+<a href="https://9travart9.github.io/" target="_blank"><img src="fa-globe" alt="Girl in a jacket" style="width:500px;height:600px;">
+
 </a>
 </p>
 
