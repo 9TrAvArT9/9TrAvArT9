@@ -17,5 +17,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
 </p>
