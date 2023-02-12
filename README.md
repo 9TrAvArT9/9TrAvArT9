@@ -10,7 +10,7 @@
 
 ### Conect With Me:
 
-<a href="https://9travart9.github.io/" target="_blank"><i class="fa fa-cloud"></i></a>
+<a href="https://9travart9.github.io/" target="_blank"><i class="fa-regular fa-globe"></i></a>
 
 
 ### Experienced With:
