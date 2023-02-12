@@ -11,7 +11,7 @@
 ### Conect With Me:
 
 [![linkinicon](https://user-images.githubusercontent.com/120284268/218299525-9bec46bf-678b-4fcb-9449-934f9221bd28.png)
-](/https://www.linkedin.com/in/rtravismerrill/)
+](https://www.linkedin.com/in/rtravismerrill/)
 
 
 ### Experienced With:
