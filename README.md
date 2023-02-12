@@ -10,7 +10,7 @@
 
 ### Conect With Me:
 
-[@icn-globe](https://9travart9.github.io/)
+<a href="https://9travart9.github.io/" target="_blank"><i class="fa fa-cloud"></i></a>
 
 
 ### Experienced With:
