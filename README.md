@@ -10,7 +10,7 @@
 
 ### Conect With Me:
 
-[<i class="fa fa-gear" style="color: firebrick"></i> Configuration](/https://9travart9.github.io/)
+[@icn-globe](/https://9travart9.github.io/)
 
 
 ### Experienced With:
