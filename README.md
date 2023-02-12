@@ -12,6 +12,7 @@
 
 [![linkinicon](https://user-images.githubusercontent.com/120284268/218299525-9bec46bf-678b-4fcb-9449-934f9221bd28.png)
 ](https://www.linkedin.com/in/rtravismerrill/)
+[![weblinkicon](https://user-images.githubusercontent.com/120284268/218299806-a909d8ea-4ed7-47cc-903c-cecac072a2b0.png)](https://9travart9.github.io/)
 
 
 ### Experienced With:
