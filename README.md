@@ -1,10 +1,10 @@
 <h3 align="center">A passionate applied statistician with an unsatiable desire to learn</h3>
 
-- 🌱 I’m currently learning **Python, R, Rstudio/Posit**
+- 🌱 I’m always learning **Python, R, Rstudio/Posit, HTML, CSS**
 
 - 💬 Ask me about **Statistical Analysis and Machine Learning Theory**
 
-- 📫 How to reach me **rome2@pdx.edu**
+- 📫 How to reach me **rome2@pdx.edu** :email:
 
 - ⚡ Fun fact **I am passionate about finding rescue dogs homes**
 
