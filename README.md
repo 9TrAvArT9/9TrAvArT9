@@ -13,7 +13,7 @@
 
 
 
-### My Skills:
+### Experienced With:
 
-![](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![](https://skillicons.dev/icons?i=py,r,latex,html,css,git,vscode,ruby,matlab)
 
