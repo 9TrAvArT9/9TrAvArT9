@@ -1,6 +1,6 @@
 <h3 align="center">A passionate applied statistician with an unsatiable desire to learn</h3>
 
-- :chart_with_upwards_trend: I’m always learning **Python, R, Rstudio/Posit, HTML, CSS, and more...**
+- :chart_with_upwards_trend: I’m always improving in **Python, R, SQL, HTML, CSS, and more...**
 
 - :question: Ask me about **Statistical Analysis, Machine Learning Theory, Sampling Methods** 
 
